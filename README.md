@@ -12,6 +12,11 @@ sudo apt update && sudo apt upgrade -y
 sudo apt-get install build-essential
 ```
 
+## 🍷 ADICIONAR USUÁRIO DEPLOY
+```
+adduser deploy
+```
+
 ## 🍷 Instalação Automatica
 
 Fazendo download do instalador e executando o instalador: 💾
