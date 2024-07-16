@@ -2,7 +2,7 @@
 
 Fazendo download do instalador e executando o instalador: 💾
 ```bash
-sudo apt install -y git && git clone https://github.com/JhonnyMv16/instaladorrr.git install && sudo chmod -R 777 ./install && cd ./install && sudo ./install_primaria
+sudo apt install -y git && git clone https://github.com/agenciadigitalizar/Instalador.git install && sudo chmod -R 777 ./install && cd ./install && sudo ./install_primaria
 ```
 
 ## Requisitos
